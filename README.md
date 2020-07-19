@@ -1,1 +1,2 @@
 # GuiTryLottery
+# Lottery on GUI
